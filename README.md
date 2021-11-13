@@ -10,7 +10,7 @@
 
 <img align = "left" alt = "Go" width="30x" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/768px-Go_Logo_Blue.svg.png" />
 
-<img align = "left" alt = "Go" width="30x" src="https://cpng.pikpng.com/pngl/s/146-1469146_java-logo-png-transparent-vector-java-logo-png.png" />
+<img align = "left" alt = "Go" width="30x" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/800px-Java_programming_language_logo.svg.png" />
 
 
 <br />
