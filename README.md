@@ -6,12 +6,13 @@
 
 
 ### Languages
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align = "left" alt = "Go" width="30x" src="https://e7.pngegg.com/pngimages/724/306/png-clipart-c-logo-c-programming-language-icon-letter-c-blue-logo.png" />
 
 <img align = "left" alt = "Go" width="30x" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/768px-Go_Logo_Blue.svg.png" />
 
-aaaaa
+<img align = "left" alt = "Go" width="30x" src="https://cpng.pikpng.com/pngl/s/146-1469146_java-logo-png-transparent-vector-java-logo-png.png" />
+
+
 <br />
 <br />
 
