@@ -13,6 +13,7 @@
 
 <img align = "left" alt = "Java" width = "25x" src="https://toppng.com/uploads/preview/java-logo-11609365784e4gmvr3iyr.png" />
 
+<!-- React, neodj, postgres, css, html -->
 
 
 
