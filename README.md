@@ -13,7 +13,7 @@
 
 <img align = "left" alt = "Java" width = "25x" src="https://toppng.com/uploads/preview/java-logo-11609365784e4gmvr3iyr.png" />
 
-<img align = "left" alt = "React" width = "25x" src="https://reactnative.dev/img/logo-og.png" />
+<img align = "left" alt = "React" width = "25x" src="https://w7.pngwing.com/pngs/79/518/png-transparent-js-react-js-logo-react-react-native-logos-icon-thumbnail.png" />
 
 <img align = "left" alt = "Cypress" width = "25x" src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg" />
 
