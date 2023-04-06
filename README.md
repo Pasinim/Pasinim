@@ -3,7 +3,7 @@
 - 👀 I’m interested in LAUREARMI AAAAAAAAAAAAAAAAAAAAAAA
 - 🌱 I’m currently learning to LAUREARMI AAAAAAAAAAAAAAAAAA
 - 💞️ I’m looking to collaborate on LAUREARMI AAAAAAAAAAAAAAAAAA
-- Currenly working at [GN Techonomy](https://www.gntechonomy.com/en/) as SW Tester
+- Currenly working at [GN Techonomy](https://www.gntechonomy.com/en/) as IT Consultant
 
 
 ### Languages
